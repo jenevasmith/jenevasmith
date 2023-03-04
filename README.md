@@ -1,4 +1,4 @@
-### Hi, I'm Jeneva, an <a href="https://linkedin.com/in/JaneDoe">IT Professional</a>😊</h1>
+### Hi, I'm Jeneva, an <a href="https://linkedin.com/in/JaneDoe">IT professional.
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 
