@@ -17,4 +17,3 @@
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
 [linkedin]: https://linkedin.com/in/Jane
-*
